@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "JavaScript Fundamentals",
+      "slug": "javascript-fundamentals",
+      "description": "Learn the basics of JavaScript, the language of the web, in this beginner-friendly course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/guitar.jpg"
+    },
+    {
+      "id": 2,
+      "title": "HTML & CSS for Beginners",
+      "slug": "html-css-for-beginners",
+      "description": "Start your web development journey by mastering the core building blocks of the web.",
+      "price": 109.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "/courses/piano.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Advanced React Techniques",
+      "slug": "advanced-react-techniques",
+      "description": "Take your React skills to the next level with hooks, performance optimization, and more.",
+      "price": 119.99,
+      "instructor": "Emily Johnson",
+      "isFeatured": true,
+      "image": "/courses/vocalist.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Full-Stack Web Development",
+      "slug": "full-stack-web-development",
+      "description": "Master both frontend and backend technologies and build complete web apps from scratch.",
+      "price": 129.99,
+      "instructor": "Mike Brown",
+      "isFeatured": false,
+      "image": "/courses/drumming.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Python for Data Science",
+      "slug": "python-for-data-science",
+      "description": "Learn how to analyze data and build machine learning models using Python.",
+      "price": 139.99,
+      "instructor": "Chris Davis",
+      "isFeatured": false,
+      "image": "/courses/jazz.jpg"
+    },
+    {
+      "id": 6,
+      "title": "DevOps & Deployment Fundamentals",
+      "slug": "devops-deployment-fundamentals",
+      "description": "Explore the essentials of DevOps, CI/CD, and cloud deployment strategies.",
+      "price": 149.99,
+      "instructor": "Alex Wilson",
+      "isFeatured": true,
+      "image": "/courses/music-prod.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Intro to Algorithms & Problem Solving",
+      "slug": "intro-to-algorithms",
+      "description": "Strengthen your coding skills by learning essential algorithms and solving real-world problems.",
+      "price": 159.99,
+      "instructor": "Samantha Miller",
+      "isFeatured": false,
+      "image": "/courses/song-writing.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Modern Web Apps with Next.js",
+      "slug": "modern-web-apps-nextjs",
+      "description": "Build fast, SEO-friendly web apps using Next.js, the popular React framework.",
+      "price": 169.99,
+      "instructor": "Luke Harris",
+      "isFeatured": true,
+      "image": "/courses/music-prod.jpg"
+    },
+    {
+      "id": 9,
+      "title": "History of Programming Languages",
+      "slug": "history-of-programming-languages",
+      "description": "Explore the evolution of programming languages and how they shaped the tech industry.",
+      "price": 179.99,
+      "instructor": "Grace Lee",
+      "isFeatured": false,
+      "image": "/courses/classical-music.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Mastering Git & GitHub",
+      "slug": "mastering-git-github",
+      "description": "Learn version control with Git and collaborate effectively using GitHub.",
+      "price": 189.99,
+      "instructor": "Ethan Moore",
+      "isFeatured": true,
+      "image": "/courses/blues.jpg"
+    }
+  ]
+}
